@@ -7,8 +7,7 @@
 
 This repository contains `augurs`, a time series framework built in Rust.
 It aims to provide some useful primitives for working with time series,
-as well as the main functionality: heavily optimized forecasting models
-based on existing R or Python implementations.
+as well as the main functionality: heavily optimized.
 
 As well as the core Rust library, augurs will provide bindings to other
 languages such as Python and Javascript (via WASM).
